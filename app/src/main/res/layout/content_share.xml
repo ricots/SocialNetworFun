@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.sample.socialnetworkfun.activity.ShareActivity"
+    tools:showIn="@layout/activity_share">
+
+
+    <ImageView
+        android:id="@+id/ivFbShare"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_fb"
+        android:layout_margin="10dp"
+        android:visibility="gone"
+        android:background="@color/bg_fb"/>
+
+    <ImageView
+        android:id="@+id/ivGplusShare"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_g_plus"
+        android:layout_margin="10dp"
+        android:visibility="gone"
+        android:background="@color/bg_gplus"/>
+
+    <ImageView
+        android:id="@+id/ivTwitterShare"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_twitter"
+        android:layout_margin="10dp"
+        android:visibility="gone"
+        android:background="@color/bg_twitter"/>
+
+</LinearLayout>

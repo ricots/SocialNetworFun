@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Social Network Fun</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_share">Share on Social</string>
+
+
+
+    <string name="facebook_app_id">1827527777530218</string>
+    <string name="twitter_consumer_key">M8gXwsQv4IpBQGNWZzSkka7Dh</string>
+    <string name="twitter_consumer_secret">v9gktDiFtKOAHmZF8f2dn4OdOJmB3gCIxWbFvSupM95FoPMEeK</string>
+    <string name="please_wait">Please wait...</string>
+
+</resources>

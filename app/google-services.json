@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257347995863",
+    "project_id": "socialnetworkfun-150711"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257347995863:android:939342913d3c52ea",
+        "android_client_info": {
+          "package_name": "com.sample.socialnetworkfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257347995863-8e4aklm0gvognsvpr1j6tl6hajda1r6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sample.socialnetworkfun",
+            "certificate_hash": "FE4F79B258972C3D7790E37DF41F9E1D1AAD7D70"
+          }
+        },
+        {
+          "client_id": "257347995863-q2uhi6m59uhr35kjj77p6oj2foo261o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_jkFzo1SSBsydfiN5LvXkZWPtf-_Udk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
